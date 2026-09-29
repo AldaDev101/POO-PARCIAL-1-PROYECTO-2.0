@@ -1,0 +1,2 @@
+Empleado con sueldo m?s alto: Luis
+Sueldo: $16000.00

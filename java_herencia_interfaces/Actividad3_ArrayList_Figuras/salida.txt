@@ -1,0 +1,2 @@
+N?mero de figuras: 5
+Suma total de ?reas: 106.27
